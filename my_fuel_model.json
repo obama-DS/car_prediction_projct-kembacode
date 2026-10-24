@@ -1,0 +1,17 @@
+{
+  "name": "A - mass only",
+  "mode": "mass",
+  "rate": 0.05,
+  "epochs": 2000,
+  "weights": [
+    -17.22713346889672
+  ],
+  "bias": 46.78713391363122,
+  "preprocessing": {
+    "weight_kg_divisor": 1000,
+    "engine_liters_divisor": 5,
+    "cylinders_divisor": 8
+  },
+  "target_unit": "MPG",
+  "scope": "UCI historical city-cycle classroom prototype"
+}
